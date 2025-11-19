@@ -38,8 +38,8 @@ También destaca el uso de herramientas como *MkDocs* o *Docusaurus* que transfo
 | Pruebas | Verificación del sistema | QA |
 
 ### Enlaces e imágenes
-[Guía oficial de Markdown](https://www.GitHub.com)  
-![Icono de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark-white.svg)
+[Página de GitHub](https://www.GitHub.com)  
+![Icono de Markdown]([https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark-white.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/markdown-icon.png))
 
 ---
 
