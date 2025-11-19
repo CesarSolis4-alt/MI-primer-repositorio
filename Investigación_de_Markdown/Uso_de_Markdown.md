@@ -39,7 +39,7 @@ También destaca el uso de herramientas como *MkDocs* o *Docusaurus* que transfo
 
 ### Enlaces e imágenes
 [Página de GitHub](https://www.GitHub.com)  
-![Icono de Markdown]([https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark-white.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/markdown-icon.png))
+![Icono de Markdown](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/00454be8-0c08-43d7-bcac-ffc266270da2" />)
 
 ---
 
